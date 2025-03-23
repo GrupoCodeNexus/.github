@@ -13,5 +13,5 @@
     [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-icon">](https://www.linkedin.com/in/marcelo-affonso-fonseca-899682333/)
 
 
-## Stats
-Disponível em breve
+## Status
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
